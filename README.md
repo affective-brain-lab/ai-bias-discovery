@@ -8,7 +8,7 @@ Moshe Glickman1, 2 & Tali Sharot1, 2, 3
 
 Correspondence authors: mosheglickman345@gmail.com, t.sharot@ucl.ac.uk
 
-How people seek and integrate information has consequences across domains from health to finance, making it important to identify systematic biases. The traditional approach — researchers generate bias hypotheses then test them experimentally — depends on researchers' own intuition and is therefore vulnerable to biases that go undetected. Here we developed a data-driven framework for bias discovery: machine learning identifies behavioral patterns that systematically deviate from a normative benchmark, large language models interpret these patterns as candidate biases, and controlled experiments validate them. Across three experiments (N = 444), this approach revealed a new bias: undervaluation of information under complexity. When facing complex decisions — where information is most beneficial — participants systematically underestimate its value, while overpaying for information on simple trials where it is least useful. Both biases lead to financial loss.
+Biases in how people seek and integrate information can lead to negative consequences across domains ranging from health to finance. It is thus crucial to identify common biases. Traditionally, researchers generate hypotheses regarding potential biases and then empirically test them. While successful, important biases may go undetected as researchers have limited cognitive resources and can be blind to their own biases. To overcome this, we developed a novel data-driven framework for bias discovery. We use machine learning to identify behavioral patterns that systematically deviate from a normative benchmark and large language models to interpret these patterns. We validate the identified biases through controlled experiments. Using this approach, we discovered a new bias: undervaluation of information under complexity. Across multiple experiments (N = 444), we reveal that when faced with complex situations, where information is particularly beneficial, participants systematically underestimate its value. In contrast, they overpay for information on simple trials, where information is least useful. As a result, they make worse decisions, resulting in monetary losses. Our AI-assisted method can be used to identify biases in domains ranging from perception to social judgment, significantly advancing the understanding of human cognition. 
 
 ## Experiment 1
 
@@ -40,7 +40,6 @@ Experiment 2 tested whether decision complexity predicts the undervaluation of i
 
 - Linear mixed-effects model: bidding bias predicted by complexity (RT), with random intercepts and random complexity slopes by subject.
 - Covariate linear mixed-effects model: bidding bias predicted by complexity, expected value and uncertainty, with random intercepts and random slopes for all three predictors by subject.
-- Partial correlation between complexity and bidding bias controlling for expected value and uncertainty, with binned means ± SE and a 95% confidence interval.
 
 ## Experiment 3
 

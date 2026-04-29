@@ -2,9 +2,9 @@
 
 Moshe Glickman1, 2 & Tali Sharot1, 2, 3
 
-1 Affective Brain Lab, Department of Experimental Psychology, University College London, London, UK
-2 Max Planck UCL Centre for Computational Psychiatry and Ageing Research, University College London, London, UK
-3 Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA
+1 Affective Brain Lab, Department of Experimental Psychology, University College London, London, UK <br />
+2 Max Planck UCL Centre for Computational Psychiatry and Ageing Research, University College London, London, UK <br />
+3 Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA <br />
 
 Correspondence authors: mosheglickman345@gmail.com, t.sharot@ucl.ac.uk
 

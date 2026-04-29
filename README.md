@@ -17,7 +17,7 @@ Experiment 1 (N = 304) introduced an incentive-compatible information-seeking lo
 
 ### Data Files
 
-- Exp1.csv — Trial-level data: subject ID, trial number, card values (Card1–Card6), normative information value, subjective bid, play/pass choice, BDM draw, trial expected value and variance.
+- Exp1.csv: Trial-level data: subject ID, trial number, card values (Card1–Card6), normative information value, subjective bid, play/pass choice, BDM draw, trial expected value and variance.
 
 ### Main analyses (GitExp1.py)
 
@@ -32,9 +32,9 @@ Experiment 2 tested whether decision complexity predicts the undervaluation of i
 
 ### Data Files
 
-- Exp2-Part1.csv — Group A trial-level summaries: TrialNumber, Card1–Card6, Mean_EV, StdDev, Mean_ChoiceRT.
-- Exp2-Part2.csv — Group B trial-level summaries: TrialNumber, Card1–Card6, Mean_EV, Std, Mean_InfoSeeking, Mean_InfoValue.
-- Exp2.csv — Subject-by-trial data for Group B, used to fit the linear mixed-effects models.
+- Exp2-Part1.csv: Group A trial-level summaries: TrialNumber, Card1–Card6, Mean_EV, StdDev, Mean_ChoiceRT.
+- Exp2-Part2.csv: Group B trial-level summaries: TrialNumber, Card1–Card6, Mean_EV, Std, Mean_InfoSeeking, Mean_InfoValue.
+- Exp2.csv: Subject-by-trial data for Group B, used to fit the linear mixed-effects models.
 
 ### Main analyses (GitExp2.m)
 
@@ -48,7 +48,7 @@ Experiment 3 (N = 50) tested the financial cost of the complexity bias. Eight ar
 
 ### Data Files
 
-- Exp3.csv — Trial-level data: SubjectID, TrialNumber, Choice, PlayChoice, ReactionTime, Card1–Card6, ExpectedValue, StandardDev, Condition (3 = with information, 6 = no information), HighRT (0 = simple array, 1 = complex array).
+- Exp3.csv: Trial-level data: SubjectID, TrialNumber, Choice, PlayChoice, ReactionTime, Card1–Card6, ExpectedValue, StandardDev, Condition (3 = with information, 6 = no information), HighRT (0 = simple array, 1 = complex array).
 
 ### Main analyses (GitExp3.m)
 
